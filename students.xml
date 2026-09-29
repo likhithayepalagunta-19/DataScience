@@ -1,0 +1,22 @@
+<records>
+  <student>
+    <name>Aarav</name>
+    <marks>85</marks>
+    <grade>A</grade>
+  </student>
+  <student>
+    <name>Diya</name>
+    <marks>92</marks>
+    <grade>A</grade>
+  </student>
+  <student>
+    <name>Kiran</name>
+    <marks>74</marks>
+    <grade>B</grade>
+  </student>
+  <student>
+    <name>Sneha</name>
+    <marks>68</marks>
+    <grade>C</grade>
+  </student>
+</records>
