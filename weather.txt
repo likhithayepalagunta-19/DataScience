@@ -1,0 +1,8 @@
+Day,City,Condition,Temperature,Humidity
+Mon,Hyderabad,Sunny,32,65
+Tue,Hyderabad,Rainy,28,82
+Wed,Hyderabad,Cloudy,29,78
+Thu,Hyderabad,Rainy,27,85
+Fri,Hyderabad,Sunny,33,60
+Sat,Hyderabad,Sunny,34,58
+Sun,Hyderabad,Cloudy,30,72
